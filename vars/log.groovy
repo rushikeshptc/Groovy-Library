@@ -1,3 +1,3 @@
-def info(message){
-    return "[INFO] ${message}"
+def info(){
+    return "[INFO] This is an info log."
 }
