@@ -1,3 +1,3 @@
 def info(){
-    return "[INFO] This is an info log."
+    echo "This is an info message."
 }
