@@ -1,4 +1,5 @@
 // vars/info.groovy
-def info(){
+
+def call() {
     echo "This is an info message."
 }
